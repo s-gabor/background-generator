@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "generates a linear gradient",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-gabor/background-generator.git"
+  },
+  "author": "s-gabor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-gabor/background-generator/issues"
+  },
+  "homepage": "https://github.com/s-gabor/background-generator#readme"
+}
