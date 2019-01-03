@@ -1,0 +1,27 @@
+body {
+	background-image: linear-gradient(to right, rgb(255, 0, 0), rgb(0, 255, 0));
+}
+
+h1, h2 {
+	text-transform: uppercase;
+	text-align: center;
+	font-family: 'Courier New';
+	opacity: 0.9;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h3 {
+	text-align: center;
+}
+
+input[type='color'] {
+	margin: 0 20px;
+}
+
+.colors {
+	display: flex;
+	justify-content: center;
+}
